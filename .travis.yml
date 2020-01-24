@@ -1,6 +1,7 @@
 ---
 language: ruby
 arch: ppc64le
+os: linux
 rvm:
 - 2.5.7
 - 2.6.5
