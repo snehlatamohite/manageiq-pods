@@ -1,5 +1,8 @@
 ---
 language: ruby
+matrx:
+   include:
+       - arch: ppc64le
 rvm:
 - 2.5.7
 - 2.6.5
